@@ -3,7 +3,8 @@
 The purpose in this project, i want to control power in the room with human detection. If any human in the room the power will ON, but if not any human in the room the power will OFF.
 
 I make the project with EMGUCV and C#. I also make the Graphic User Interface (GUI) to facilitate the user. 
-=======
+
+
 # Control Power Using Haarcascade Classifier
 The purpose in this project, i want to control power in the room with human detection. If any human in the room the power will ON, but if not any human in the room the power will OFF.
 
@@ -16,6 +17,8 @@ I make the project with EMGUCV and C#. I also make the Graphic User Interface (G
 3. Connect arduino in your PC ( Check the port, if the port as different change the port like the port arduino
 4. Connect the webcam in your pc
 5. Run Program
+
+The Report from this Project : [Uploading RANCANG BANGUN SISTEM PENGONTROL LISTRIK RUANGAN BERDASARKAN PERGERAKAN MANUSIA DENGAN METODE HAARCASCADE CLASSIFIER.pdf…]()
 
 
 # The User Interface Project
