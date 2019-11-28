@@ -18,8 +18,6 @@ I make the project with EMGUCV and C#. I also make the Graphic User Interface (G
 4. Connect the webcam in your pc
 5. Run Program
 
-The Report from this Project : [Uploading RANCANG BANGUN SISTEM PENGONTROL LISTRIK RUANGAN BERDASARKAN PERGERAKAN MANUSIA DENGAN METODE HAARCASCADE CLASSIFIER.pdf…]()
-
 
 # The User Interface Project
 
