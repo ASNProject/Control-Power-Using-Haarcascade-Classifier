@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Project Metopen 2018 2.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Project Metopen 2018 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Project Metopen 2018 2.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.dll" size="331776">
+      <assemblyIdentity name="Emgu.CV" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>05fQJM7FjbPTbcjaBvQgidA8Dpy28b3wBfRgWLuLFQc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.DebuggerVisualizers.VS2008.dll" size="8192">
+      <assemblyIdentity name="Emgu.CV.DebuggerVisualizers.VS2008" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bi7uunjx3o0WmGSsJJPmtyyms4f+HO/L7GoE+snz1PE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.DebuggerVisualizers.VS2010.dll" size="8192">
+      <assemblyIdentity name="Emgu.CV.DebuggerVisualizers.VS2010" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5v85rnl86J7DJGMwbLtE+5ux/LE7S33wY4tR/GnpYoM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.DebuggerVisualizers.VS2012.dll" size="8192">
+      <assemblyIdentity name="Emgu.CV.DebuggerVisualizers.VS2012" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MrnwKb2bAhgdZvF8F3lNn5El0VziwuQ0NugumtohSno=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.DebuggerVisualizers.VS2013.dll" size="8192">
+      <assemblyIdentity name="Emgu.CV.DebuggerVisualizers.VS2013" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>F060PwEay+lVEkgBMrAcoep5es6mJ1IlJf64Kjt46/k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.GPU.dll" size="49152">
+      <assemblyIdentity name="Emgu.CV.GPU" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hda22GQWH2rZaeWQojshwXq/lzIIx66CKT2yf84sQWc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.ML.dll" size="36864">
+      <assemblyIdentity name="Emgu.CV.ML" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3Mv5IsEJMy6VA6bPEPqsM/Y3P4Xj7MYfOlljrXrujbI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.OCR.dll" size="7680">
+      <assemblyIdentity name="Emgu.CV.OCR" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Te0OECMiLZrMVSm33+pVVK+3aD+ObwWWA4VCZ2IYXns=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.OpenCL.dll" size="40960">
+      <assemblyIdentity name="Emgu.CV.OpenCL" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PW1qP+U0htWitg0jnKcLY9VgedeqTvXxqogiOtVQpwQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.Stitching.dll" size="5632">
+      <assemblyIdentity name="Emgu.CV.Stitching" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>i8dFqFH6T44bLur5zsFIKN24+X9dcmBY13+dyAaRZCM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.UI.dll" size="126976">
+      <assemblyIdentity name="Emgu.CV.UI" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V6c1YfI60sLaoRGBcwRZJp07iIFgG54fggiUHgnClZc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.CV.VideoStab.dll" size="7168">
+      <assemblyIdentity name="Emgu.CV.VideoStab" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>P0vLg+5zKPtUAQQxJaa890T6zz61dr2qEsdxHiacyPM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Emgu.Util.dll" size="32768">
+      <assemblyIdentity name="Emgu.Util" version="2.4.10.1939" publicKeyToken="7281126722AB4438" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Wop1PRk2CQD/elTw6jXMEitNwEEYBICxAGtjDxkcpVQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Metopen 2018 2.exe" size="14904">
+      <assemblyIdentity name="Project Metopen 2018 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PZsOXnjpingsm0MKZDohqyidJkx4lJi2g/MQEwWJqg8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="307200">
+      <assemblyIdentity name="ZedGraph" version="5.1.5.28844" publicKeyToken="02A83CBD123FCD60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RjnOyzIQbo6k2kf8/LpiqSsrvLeMZCPFaomCrufslks=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cudart32_65.dll" size="256840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fyKsgUCp/tqjYPtmChOJJGOpDOlnaoi64UcvnrWadDI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cufft32_65.dll" size="34663584">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0h2KqztWWMm6gjY2U0MbHNWZFGfQ85suW84UPivirC4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cvextern.dll" size="2695168">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RFcjmPDSnkjCDHNx4Ssdf3x2tOpKIYyTm7KlhyT11Os=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="nppc32_65.dll" size="163160">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FIqQmvwjpFbI/NbLRNrM4VWvNdZkZ/jlX4yBxkAV5bg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="nppi32_65.dll" size="55475360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wk/EtCbUak2PYIQJAkpftroospFbamvJ5k82man/6cA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="npps32_65.dll" size="5698208">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jmAMXOKacvHydWPquEowTf4bMhGA23uQ/Mn9Wg0i7F8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="OpenCL.dll" size="25088">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s9e5J91RSUxDV3jn3YXkXnHwjn+AioIrIE/fSKN3UcE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_calib3d2410.dll" size="1012224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>quizG7JWvI3ZLPx0Dql2xfag/egk9tK9L13VLfwkj7M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_contrib2410.dll" size="1213952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1LPMdPTE30/q+wxGMS8rusdeDy6yi6r8tpd+TRFqII8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_core2410.dll" size="4245504">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZS8V4UxzLEV40+5j1KOXsK3nAk1v0oPPWvvc65nZEho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_features2d2410.dll" size="741376">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Bc8X3eZufiDxSTSV7FjUTx4lG7Ls107CyIYtLdipavw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_flann2410.dll" size="526848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6jjYXd8DqV1peC3gDf8tapcA6cgGH/r/aYk590Q87RE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_gpu2410.dll" size="374448640">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XJ5eCyCuGFY6BcF+erRFqhzfjPyQJ8wiu9KmKviz91k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_highgui2410.dll" size="2160640">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eFSsSd8TZVysHu84pVziB21aFyifEAnYPMkBnRnQDHI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_imgproc2410.dll" size="1930752">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jqPZgeq4mFPgqnQhh8+7CUAR3xb5E/YXn8WgM+GBtw4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_legacy2410.dll" size="1260032">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Fd2eYCPXPv9WrJraaBXR1ZP9N0C1Wjcv3vRUas+th48=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_ml2410.dll" size="509952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HLNIlerIFUeVPdabwV84VGe3hjKj7pMXZhb5L3zYRmc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_nonfree2410.dll" size="959488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AWUVsvt4Pdf/3qqhIIwLGXBUB7T214TSTU9rcMR5tEQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_objdetect2410.dll" size="679424">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4X/2GxKxMFcoELcdu5m/wNvz8GxgOAhEOp66eLAqYYQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_photo2410.dll" size="200704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5UBWTProCmZCTYACtHv1JhTlUINE8cXVnFgDUgSC5aY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_stitching2410.dll" size="1046016">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PLif+VNpPaiyWV3585H1Ap7Lg41cbA4ey4Jd4d58HaU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_superres2410.dll" size="667648">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/3cLfOCCcur782YLXqBpfzrugn8gjRFy8j5cKp7U+xI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_video2410.dll" size="364544">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dJK9YGmmK+rRHXspnV3o3m6Nx2XxziBm0klrg4PftWY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="opencv_videostab2410.dll" size="552960">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Q+w1Z40BIFAcHy0BxokOLOyglygp3H5E4BKObzKSdhs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Project Metopen 2018 2.exe.config" size="559">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/P6P1YubJaANpKIXID8xHTPvRAyqQQ32sekGJw/UCZQ=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

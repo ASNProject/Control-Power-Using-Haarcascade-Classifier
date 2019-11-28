@@ -1,0 +1,98 @@
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cudart32_65.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cufft32_65.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cvextern.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\nppc32_65.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\nppi32_65.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\npps32_65.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\OpenCL.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_calib3d2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_contrib2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_core2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_features2d2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_flann2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_gpu2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_highgui2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_imgproc2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_legacy2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_ml2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_nonfree2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_objdetect2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_photo2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_stitching2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_superres2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_video2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_videostab2410.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.exe.config
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.exe
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.pdb
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.OpenCL.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.VideoStab.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.Util.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\ZedGraph.dll
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.GPU.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.ML.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.OCR.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.OpenCL.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.Stitching.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.CV.VideoStab.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Emgu.Util.xml
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.exe.config
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project_Metopen_2018_2.Form1.resources
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project_Metopen_2018_2.Properties.Resources.resources
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csproj.GenerateResource.Cache
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csproj.CoreCompileInputs.cache
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.exe
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.pdb
+C:\Users\arief\source\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cudart32_65.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cufft32_65.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\cvextern.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\nppc32_65.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\nppi32_65.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\npps32_65.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\OpenCL.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_calib3d2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_contrib2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_core2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_features2d2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_flann2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_gpu2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_highgui2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_imgproc2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_legacy2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_ml2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_nonfree2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_objdetect2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_photo2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_stitching2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_superres2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_video2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\opencv_videostab2410.dll
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.exe.config
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.exe
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.pdb
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.exe.config
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project_Metopen_2018_2.Form1.resources
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project_Metopen_2018_2.Properties.Resources.resources
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csproj.CopyComplete
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.exe
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.pdb
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.exe.manifest
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\bin\x86\Debug\Project Metopen 2018 2.application
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.exe.manifest
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.application
+D:\VISUAL STUDIO 2017 PROJECT\repos\Project Metopen 2018 2\Project Metopen 2018 2\obj\x86\Debug\Project Metopen 2018 2.csprojAssemblyReference.cache
